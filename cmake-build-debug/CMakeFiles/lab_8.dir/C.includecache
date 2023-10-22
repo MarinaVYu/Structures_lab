@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/petry/YandexDisk/Rabota/Elaman_projects/Madina_lab/lab_8/main.c
+stdio.h
+-
+string.h
+-
+structures.h
+C:/Users/petry/YandexDisk/Rabota/Elaman_projects/Madina_lab/lab_8/structures.h
+
+C:/Users/petry/YandexDisk/Rabota/Elaman_projects/Madina_lab/lab_8/structures.h
+
